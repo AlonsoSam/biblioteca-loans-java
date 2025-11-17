@@ -1,0 +1,12 @@
+C:\Construccion\biblioteca-loans-java\src\main\java\com\tecsup\library\model\Book.java
+C:\Construccion\biblioteca-loans-java\src\main\java\com\tecsup\library\model\Loan.java
+C:\Construccion\biblioteca-loans-java\src\main\java\com\tecsup\library\model\Member.java
+C:\Construccion\biblioteca-loans-java\src\main\java\com\tecsup\library\repo\BookRepository.java
+C:\Construccion\biblioteca-loans-java\src\main\java\com\tecsup\library\repo\LoanRepository.java
+C:\Construccion\biblioteca-loans-java\src\main\java\com\tecsup\library\repo\mem\InMemoryBookRepository.java
+C:\Construccion\biblioteca-loans-java\src\main\java\com\tecsup\library\repo\mem\InMemoryLoanRepository.java
+C:\Construccion\biblioteca-loans-java\src\main\java\com\tecsup\library\repo\mem\InMemoryMemberRepository.java
+C:\Construccion\biblioteca-loans-java\src\main\java\com\tecsup\library\repo\MemberRepository.java
+C:\Construccion\biblioteca-loans-java\src\main\java\com\tecsup\library\service\DomainException.java
+C:\Construccion\biblioteca-loans-java\src\main\java\com\tecsup\library\service\LoanService.java
+C:\Construccion\biblioteca-loans-java\src\main\java\com\tecsup\library\util\ClockProvider.java
